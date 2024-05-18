@@ -95,7 +95,9 @@ class Var(object):
     HAS_SSL=bool(getenv('HAS_SSL',False))
     if HAS_SSL:
         URL = "https://multiple-ardisj-ri-55dc70f3.koyeb.app/"
+        URL = "https://multiple-ardisj-ri-55dc70f3.koyeb.app/"
     else:
+        URL = "https://multiple-ardisj-ri-55dc70f3.koyeb.app/"
         URL = "https://multiple-ardisj-ri-55dc70f3.koyeb.app/"
 
 
